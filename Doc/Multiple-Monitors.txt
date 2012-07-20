@@ -1,0 +1,1 @@
+jPong currently supports a monitor configuration where the base monitor is farthest to the left. Also, better results may be achieved by playing on monitors of similar heights.

@@ -1,0 +1,19 @@
+File Paddle.jav
+---------------
+Line 69:    Constructor
+Line 527:   Override of 'toString' method
+Line 538:   Beginning of Setter and Accessor Methods
+
+File PongBall.java
+------------------
+Line 38:    Array holding the scores for each player
+Line 40:    Constructor
+Line 140:   Nested 'if' statements
+
+File MultiMonitor.java
+----------------------
+Contains interesting-to-peruse code, though nothing terribly pertinant.
+
+Other
+-----
+IllegalSizeException and ZeroVelocityException are both custom exceptions used in various places in the program.
